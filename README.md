@@ -1,4 +1,5 @@
-# RandomColorJS
+
+<h1 align="center">RandomColorJS</h1>
 <h2 align="center">Con Js Podremos cambiar el color de fondo de la web.</h2>
 
 ###
